@@ -4,7 +4,7 @@
 
 * [ Description ](#description-📝)
 * [ Application Preview ](#application-preview-⭐)
-* [ Installation ]
+* [ Installation ](#installation)
 * [ Usage ](#usage-💡)
 * [ Technologies ](#technologies-🔧)
 * [ Notable Features ](#notable-features-⚡️)
