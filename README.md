@@ -13,6 +13,8 @@
 
 ## Description 📝
 
+This application is a text editor application.
+
 ## Application Preview ⭐
 
 ## Installation
@@ -20,6 +22,13 @@
 ## Usage 💡
 
 ## Technologies 🔧
+
+* NPM
+* Webpack
+* HTML
+* CSS
+* JavaScript
+* Node
 
 ## Notable Features ⚡️
 
